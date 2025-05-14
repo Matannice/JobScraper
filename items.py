@@ -1,3 +1,5 @@
+"""Defines the fields we’ll collect for every job."""
+
 import scrapy
 
 class JobItem(scrapy.Item):

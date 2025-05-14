@@ -1,0 +1,11 @@
+jobscraper/
+├── scrapy.cfg
+└── jobscraper/
+    ├── __init__.py
+    ├── items.py
+    ├── pipelines.py
+    ├── settings.py
+    └── spiders/
+        ├── base_spider.py
+        ├── greenhouse_spider.py
+        └── generic_spider.py   # stub for later
